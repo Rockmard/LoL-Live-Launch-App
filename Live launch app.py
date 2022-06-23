@@ -212,7 +212,7 @@ window.title("LIVE LAUNCH APP")
 window.geometry("1080x720")
 window.minsize(1080,720)
 window.maxsize(1080,720)
-window.iconbitmap("icon.ico")
+window.iconbitmap("Ressources/icon.ico")
 window.config(background='#3F3F3F',cursor="tcross")
 
 # TEXT #
