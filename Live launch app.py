@@ -12,32 +12,32 @@ start = False
 league_list = ["World","MSI","LCK","LPL","LCS","LJL","LEC","European Masters","LFL","LCO","LLA","CBLOL","LCL","PCS","TCL","All-Star","CBLOL Academy","College Championship","EBL","Elite Series","Hitpoint Masters","PG Nationals","LCK Academy","LCK Challengers","LCS Academy","Proving Grounds","Greek Legends League","Liga Portuguesa","NLC","Ultraliga","Prime League","SuperLiga","LCS Amateur Circuit"]
 
 league_ip = {
-"World"                      : "https://lolesports.com",
-"MSI"                        : "https://lolesports.com",
+"World"                      : "https://lolesports.com/live/world", ##
+"MSI"                        : "https://lolesports.com/live/msi",   ##
 "LCK"                        : "https://lolesports.com/live/lck",
 "LPL"                        : "https://lolesports.com/live/lpl",
-"LCS"                        : "https://lolesports.com",
-"LJL"                        : "https://lolesports.com",
+"LCS"                        : "https://lolesports.com/live/lcs",   ##
+"LJL"                        : "https://lolesports.com/live/ljl",   ##
 "LEC"                        : "https://lolesports.com/live/lec",
-"European Masters"           : "https://lolesports.com",
+"European Masters"           : "https://lolesports.com/live/european_masters", ##
 "LFL"                        : "https://lolesports.com/live/otp_/lfl",
 "LCO"                        : "https://lolesports.com/live/lco",
 "LLA"                        : "https://lolesports.com/live/lla",
 "CBLOL"                      : "https://lolesports.com/live/cblol-brazil/cblol",
-"LCL"                        : "https://lolesports.com",
-"PCS"                        : "https://lolesports.com",
+"LCL"                        : "https://lolesports.com/live/lcl", ##
+"PCS"                        : "https://lolesports.com/live/pcs", ##
 "TCL"                        : "https://lolesports.com/live/turkiye-sampiyonluk-ligi",
-"All-Star"                   : "https://lolesports.com",
+"All-Star"                   : "https://lolesports.com/live/all-star", ##
 "CBLOL Academy"              : "https://lolesports.com/live/cblol_academy",
 "College Championship"       : "https://lolesports.com/live/college_championship/lcs",
 "EBL"                        : "https://lolesports.com/live/esports_balkan_league/fortuna",
 "Elite Series"               : "https://lolesports.com/live/elite_series/",
-"Hitpoint Masters"           : "https://lolesports.com",
+"Hitpoint Masters"           : "https://lolesports.com/live/hitpoint_masters",
 "PG Nationals"               : "https://lolesports.com/live/pg_nationals",
-"LCK Academy"                : "https://lolesports.com",
+"LCK Academy"                : "https://lolesports.com/live/lck-academy", ##
 "LCK Challengers"            : "https://lolesports.com/live/lck_challengers_league",
 "LCS Academy"                : "https://lolesports.com/live/lcs-academy/pathtolcs",
-"Proving Grounds"            : "https://lolesports.com",
+"Proving Grounds"            : "https://lolesports.com/live/proving_grounds", ##
 "Greek Legends League"       : "https://lolesports.com/live/greek_legends",
 "Liga Portuguesa"            : "https://lolesports.com/live/liga_portuguesa/",
 "NLC"                        : "https://lolesports.com/live/nlc",
