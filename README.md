@@ -61,10 +61,10 @@ You have two settings to set up :
 
   </details>
 
-* At what time does the game start (on the right)].
+* At what time does the game start (on the right).
 If you don't know when your league is starting, you can press the schedule button.
 
-Once you set it up, you need to click on the "+". If you selected the wrong league, you can select it again but this time time click the "-".
+Once you set it up, you need to click on the "+". If you selected the wrong league, you can select it again but this time click the "-".
 You can check which league(s) you selected by pressing the button just above the start button.
 When you selected all the league(s), just press the start button. The program will stop by itself when all league(s) has been launch.
 You can add league while the program is on.
